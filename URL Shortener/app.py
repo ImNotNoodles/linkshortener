@@ -1,7 +1,6 @@
 from tkinter import *
 import pyshorteners
 app = Tk()
-app.overrideredirect(0.5)
 app.resizable(False, False)
 app.geometry("500x600")
 app.title("Noodle's URL Shortner")
